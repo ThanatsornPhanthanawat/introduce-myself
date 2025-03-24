@@ -1,1 +1,2 @@
 # introduce-myself
+This is the first version. In the future, I plan to add a navbar and footer. However, after completing a project to help practice JavaScript, I will return to continue working on this.
