@@ -1,7 +1,14 @@
+import { NextConfig } from "next";
 /**@type {import('next').NextConfig} */
 
-const nextConfig = {
+
+const nextConfig: NextConfig = {
   output: "export",
+  basePath: "/introduce-myself",
+  images: {
+    unoptimized: true,
+  },
 };
 
-module.exports = nextConfig;
+export default nextConfig;
+
