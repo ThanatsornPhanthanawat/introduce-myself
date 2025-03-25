@@ -11,7 +11,7 @@ export default function Home() {
       {/* Hero Section */}
       <div className="relative h-screen w-full font-bold">
         <Image
-          src="./hero.webp"
+          src="/introduce-myself/hero.webp"
           alt="bg"
           layout="fill"
           objectFit="cover"
